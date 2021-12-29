@@ -3,17 +3,6 @@
 #
 # Description
 # A modern clone of the old Asteroids Game
-#
-# Features
-#
-#
-# Comments
-# currently no projectiles are flying around
-# or are any collisions being detected
-# so to test asteroids blowing up you can press 'q', this will pick
-# a random asteroid and destroy it, BE CAREFUL not to press q once all the asteroids
-# are dead this will cause a null pointer exception and wont be possible 
-#vwith collisions implemented.
 */
 import processing.sound.*;
 
