@@ -2,7 +2,7 @@
 Asteroids Game (2018)
 
 
-Requires Processing 3.3.7 or newer to run game
+Requires Processing 3.3.7 or newer to run game.
 Once Processing is installed open the "Assessment_3.pde file" in the application 
 and then hit the run button.
 
